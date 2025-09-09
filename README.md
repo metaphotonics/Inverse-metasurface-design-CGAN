@@ -1,3 +1,4 @@
 We are presenting a data-driven framework for inverse metasurface design and efficient forward prediction with promising application in spectral filter, polarization converter, and vector holography. This research was directed by Prof. Humeyra Caglayan from Eindhoven University of Technology (TU/e), Netherlands and the research team includes Md Imran Hossain and Linzhi Yu from Tampere University, Finland.
 
 We have developed a ResNet-18–based neural network simulator that mimic the conventional numerical techniques such as FDTD, FEM, and FIT, thereby providing a computationally efficient path for metasurface inverse design within a Generative Adversarial Network (GAN) framework.
+![Alt text](Concept_Figure.png)
