@@ -11,3 +11,4 @@ This repository includes sample dataset, CGAN:generator and discriminator, and N
 For any queries, please contact Prof. Humeyra Caglayan (h.caglayan@tue.nl)
 
 
+This repository is shared with you under CC licence, hence you are required to cite the source when you use any content shared under this repository.  
